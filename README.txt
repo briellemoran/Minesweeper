@@ -1,3 +1,5 @@
+## MINESWEEPER
+This is a project I completed for my Fundamentals of CS2 course in June 2025. The game is a mimic of the original Microsoft version of the game.
 Assignment 9: MINESWEEPER
 
 Extra Implementations:
